@@ -48,11 +48,6 @@ The system takes a soccer match video as input and generates a tactical pitch-vi
 - K-Means
 - Homography Transformation
 
-
-```python
-SOURCE_VIDEO_PATH = "/content/Football_C.mp4"
-```
-
 ## Object Dectection Model Metrics
 ![Object Detection Metrics](/assets/object_detection_model_metrics.png)
 
